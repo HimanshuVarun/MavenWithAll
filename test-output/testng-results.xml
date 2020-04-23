@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32" started-at="2020-04-23T18:16:48 IST" finished-at="2020-04-23T18:16:48 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32" started-at="2020-04-23T18:16:48 IST" finished-at="2020-04-23T18:16:48 IST">
+      <class name="MavenWithAll.MavenWithAll.Hello5">
+        <test-method status="PASS" signature="first()[pri:0, instance:MavenWithAll.MavenWithAll.Hello5@7bc1a03d]" name="first" is-config="true" duration-ms="8" started-at="2020-04-23T18:16:48 IST" finished-at="2020-04-23T18:16:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method status="PASS" signature="last()[pri:0, instance:MavenWithAll.MavenWithAll.Hello5@7bc1a03d]" name="last" duration-ms="4" started-at="2020-04-23T18:16:48 IST" finished-at="2020-04-23T18:16:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- last -->
+      </class> <!-- MavenWithAll.MavenWithAll.Hello5 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
